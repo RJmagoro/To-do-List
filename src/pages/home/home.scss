@@ -1,3 +1,21 @@
 page-home {
+    ion-content{
+        background: url(../../assets/imgs/TodoListe.png) top no-repeat;
+        background-size: contain;
+        
+        
+    }
+   
 
 }
+
+#btn1{
+    position: absolute;
+    left: 50%;
+    transform:  translate(-50%, 390px);
+    position: fixed;
+
+}ion-content{
+    background-color: cadetblue !important;
+}
+

@@ -1,0 +1,4 @@
+interface  List{
+    item:string;
+
+}
